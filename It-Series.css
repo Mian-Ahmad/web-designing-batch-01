@@ -1,0 +1,31 @@
+body{
+    background-color: burlywood;
+}
+div.container {
+     font-family: calibri;
+}
+div.wrapper {
+    text-align: center;
+}
+
+.head0 {
+    margin-bottom: 0px;
+}
+h1.head1 {
+    font-size: 50px;
+    margin: 0px 0px 0px 0px;
+}
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+tr {
+    text-align: center;
+}
+hr {
+    margin-top: 50px;
+}
+div.footer {
+    text-align: center;
+    margin-top: 15px;
+}
